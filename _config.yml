@@ -1,0 +1,28 @@
+name: gluey
+favicon: null
+layout_spectrum: 0.44294482260011137
+typography_spectrum: 0.08034282177686691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6074359421618283
+  lightness: 0.8385028215125203
+  saturation: 0.33971352642402053
+  rhythmicContrast: 0.1374563341960311
+purpose: []
